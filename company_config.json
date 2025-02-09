@@ -1,0 +1,18 @@
+{
+    "name": "Boxes LLC",
+    "address": "Londonderry, NH 03053",
+    "email": "accountspayable@boxes.llc",
+    "logo_path": "assets/boxes.jpeg",
+    "established": "2020",
+    "terms": [
+        "Payment is due within 14 days of invoice date",
+        "All consulting hours are billed at agreed-upon rates",
+        "Weekend hours are included in the standard rate as previously agreed",
+        "Expenses are billed at cost with prior approval",
+        "This invoice serves as an official receipt for all payments listed",
+        "Please include invoice number in all payment references",
+        "Make all checks payable to Boxes LLC",
+        "For wire transfers or other payment methods, please contact us"
+    ],
+    "tax_id": "31-2233222"
+}

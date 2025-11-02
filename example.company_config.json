@@ -1,0 +1,13 @@
+{
+    "name": "Acme Consulting LLC",
+    "address": "123 Main Street, Anytown, CA 90210, USA",
+    "email": "billing@acmeconsulting.com",
+    "logo_path": "example.logo.jpg",
+    "established": "2024",
+    "terms": [
+        "All consulting hours are billed at agreed-upon rates",
+        "Please include invoice number in all payment references",
+        "Payment is due within 15 days of invoice date"
+    ],
+    "tax_id": "12-3456789"
+}

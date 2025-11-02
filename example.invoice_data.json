@@ -1,0 +1,46 @@
+{
+    "invoice_number": "INV-2025-001",
+    "date": "January 15, 2025",
+    "due_date": "January 30, 2025",
+    "client_name": "Example Client Corp",
+    "client_address": "456 Business Ave, Suite 100, Somewhere, NY 10001",
+    "services": [
+        {
+            "date": "Jan 5-10, 2025",
+            "description": "Web Development - Frontend implementation and responsive design",
+            "hours": 24,
+            "rate": 125.00
+        },
+        {
+            "date": "Jan 12-15, 2025",
+            "description": "Consulting - Technical architecture review and recommendations",
+            "hours": 8,
+            "rate": 175.00
+        },
+        {
+            "date": "Jan 2025",
+            "description": "Mechanical Keyboard - Cherry MX Brown (SKU: KB-2024-MX)",
+            "quantity": 3,
+            "unit_price": 89.99
+        },
+        {
+            "date": "Jan 2025",
+            "description": "27\" 4K Monitor - Dell UltraSharp (Model: U2723DE)",
+            "quantity": 2,
+            "unit_price": 549.00
+        },
+        {
+            "date": "Jan 2025",
+            "description": "Wireless Mouse - Logitech MX Master 3S",
+            "quantity": 3,
+            "unit_price": 99.99
+        },
+        {
+            "date": "Jan 2025",
+            "description": "Project setup and deployment configuration",
+            "amount": 500.00
+        }
+    ],
+    "payment_status": "Net 15, Unpaid",
+    "payment_dates": []
+}

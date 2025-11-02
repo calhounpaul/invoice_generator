@@ -1,0 +1,61 @@
+{
+    "margins": {
+        "right": 30,
+        "left": 30,
+        "top": 30,
+        "bottom": 30
+    },
+    "fonts": {
+        "name": "LibreBaskerville",
+        "regular": "fonts/LibreBaskerville-Regular.ttf",
+        "bold": "fonts/LibreBaskerville-Bold.ttf",
+        "italic": "fonts/LibreBaskerville-Italic.ttf"
+    },
+    "styles": {
+        "normal": {
+            "fontSize": 10,
+            "leading": 14
+        },
+        "companyName": {
+            "fontSize": 16,
+            "leading": 20,
+            "alignment": "LEFT"
+        },
+        "invoiceTitle": {
+            "fontSize": 24,
+            "leading": 30,
+            "alignment": "CENTER",
+            "spaceAfter": 20,
+            "bold": true
+        }
+    },
+    "logo": {
+        "maxWidth": 3.0,
+        "maxHeight": 1.0
+    },
+    "table": {
+        "availableWidth": 520,
+        "columnWidths": {
+            "date": 0.15,
+            "description": 0.45,
+            "hours": 0.12,
+            "rate": 0.14,
+            "amount": 0.14
+        },
+        "style": {
+            "headerFontSize": 10,
+            "dataFontSize": 10,
+            "gridWidth": 0.25,
+            "topPadding": 6,
+            "bottomPadding": 6,
+            "leftPadding": 6,
+            "rightPadding": 6
+        }
+    },
+    "spacing": {
+        "afterCompanyInfo": 20,
+        "afterInvoiceDetails": 20,
+        "afterServicesTable": 20,
+        "beforeTerms": 30
+    }
+}
